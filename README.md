@@ -15,15 +15,16 @@
 
 ## Índice
 <!--ts-->
-* [Objetivo](##Objetivo)
+* [Objetivo da atividade](##Objetivo-da-atividade)
+* [Conjunto de dados](##Conjunto-de-dados)
+* [Metodologias e análises empregadas](##Metodologias-e-análises-empregadas)
 * [Instruções para uso](##Instruções-para-uso)
 * [Bibliotecas utilizadas](##Bibliotecas-utilizadas)
-* [Informações adicionais](##Informações-adicionais)
-* [Conclusão](##Conclusão)
+* [Conclusões e resultados](##Conclusões-e-resultados)
 * [Agradecimentos](##Agradecimentos)
-* [Docente responsável](##Docentes-responsáveis)
-* [Autoria](##Autoria)
 * [Referências](##Referências)
+* [Docente responsável](##Docentes-responsáveis)
+* [Autoria](##Desenvolvedora)
 <!--te-->
 
 ## Objetivo da atividade
@@ -126,6 +127,3 @@ Agradeço ao professor docente responsável por ministrar a disciplina de Aprend
 Ana Luiza de Lima Silva, estudante do primeiro semestre do bacharelado em Ciência e Tecnologia da Ilum escola de ciência
 
 <img width="966" height="95" alt="image" src="https://github.com/user-attachments/assets/f9825ded-4549-4691-a6e0-e261bfeb7aa1" />
-
-
-## Referências
